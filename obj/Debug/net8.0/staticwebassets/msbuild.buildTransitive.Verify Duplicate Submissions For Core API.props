@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Verify Duplicate Submissions For Core API.props" />
+</Project>

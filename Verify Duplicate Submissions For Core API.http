@@ -1,0 +1,6 @@
+@Verify_Duplicate_Submissions_For_Core_API_HostAddress = http://localhost:5208
+
+GET {{Verify_Duplicate_Submissions_For_Core_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

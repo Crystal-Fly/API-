@@ -1,0 +1,39 @@
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\appsettings.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Verify Duplicate Submissions For Core API.staticwebassets.endpoints.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Verify Duplicate Submissions For Core API.exe
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Verify Duplicate Submissions For Core API.deps.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Verify Duplicate Submissions For Core API.runtimeconfig.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Verify Duplicate Submissions For Core API.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Verify Duplicate Submissions For Core API.pdb
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.csproj.AssemblyReference.cache
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.AssemblyInfoInputs.cache
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.AssemblyInfo.cs
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.csproj.CoreCompileInputs.cache
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\scopedcss\bundle\Verify Duplicate Submissions For Core API.styles.css
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets\msbuild.Verify Duplicate Submissions For Core API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets\msbuild.Verify Duplicate Submissions For Core API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets\msbuild.build.Verify Duplicate Submissions For Core API.props
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Verify Duplicate Submissions For Core API.props
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Verify Duplicate Submissions For Core API.props
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify D.27511527.Up2Date
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\refint\Verify Duplicate Submissions For Core API.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.pdb
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\Verify Duplicate Submissions For Core API.genruntimeconfig.cache
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\obj\Debug\net8.0\ref\Verify Duplicate Submissions For Core API.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\MailKit.dll
+C:\Users\mzmlliu\Desktop\Test AD Login\Verify Duplicate Submissions For Core API\bin\Debug\net8.0\MimeKit.dll
